@@ -1,5 +1,5 @@
 # Warehouse-Management-System
- Project description I was creating a warehouse management system for friend's small reseller company.
+I was creating a warehouse management system for small reseller company.
 
 * SQL Server database
 * DB backup automation
