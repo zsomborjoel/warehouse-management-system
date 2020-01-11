@@ -26,3 +26,7 @@ I was creating a warehouse management system for small reseller company.
 
 ### Note on system
 Everything what I created was based on business requirements.
+
+### Diagram
+
+![Database diagram](https://github.com/zsomborjoel/Warehouse-Management-System/blob/master/Resseller_db_diagram.PNG)
