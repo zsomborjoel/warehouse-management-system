@@ -1,5 +1,5 @@
 # Warehouse-Management-System
-I was creating a warehouse management system for small reseller company.
+This is a non production POC. I was creating a warehouse management system for small reseller company.
 
 * Database: Sql Server Express
 * Language for business logic: T-SQL
